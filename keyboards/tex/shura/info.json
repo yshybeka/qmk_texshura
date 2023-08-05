@@ -9,7 +9,7 @@
     },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
-        "cols": ["D2", "B8", "B11", "D0", "B13", "B14", "C12", "B2", "A10", "D3"]
+        "cols": ["D2", "B8", "B11", "D0", "B13", "B14", "C12", "B2", "A10", "D3", "C13"]
         "rows": ["A8", "A7", "A6", "A5", "A4", "A3", "A2", "A1"],
     },
     "indicators": {
