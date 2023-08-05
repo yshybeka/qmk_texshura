@@ -18,3 +18,22 @@ const uint16_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                                    KC_TRNS, KC_TRNS, KC_TRNS,                                     KC_HOME, KC_PGDN, KC_END
     )
 };
+
+bool dip_switch_update_user(uint8_t index, bool active) {
+    switch (index) {
+    case 0:
+        break;
+    case 1:
+        break;
+    case 2:
+        break;
+    case 3:
+        break;
+    case 4:
+        break;
+    case 5:
+        break;
+    }
+
+    return true;
+}
