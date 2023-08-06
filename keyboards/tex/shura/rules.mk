@@ -17,3 +17,5 @@ PS2_DRIVER = interrupt
 EXTRAKEY_ENABLE = yes
 CONSOLE_ENABLE = yes
 COMMAND_ENABLE = yes
+
+SRC += hal_pal_lld_exti.c
